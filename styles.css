@@ -1,0 +1,64 @@
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+  margin: 0in;
+  font-size: 16pt;
+  font-family: "Liberation Serif", serif;
+}
+h1 {
+  margin-top: 12pt;
+  margin-right: 0in;
+  margin-bottom: 6pt;
+  margin-left: 0in;
+  text-indent: 0in;
+  page-break-after: avoid;
+  font-size: 18pt;
+  background-color: aquamarine;
+  font-family: "Liberation Sans", sans-serif;
+}
+h2 {
+  margin-top: 10pt;
+  margin-right: 0in;
+  margin-bottom: 6pt;
+  margin-left: 0in;
+  text-indent: 0in;
+  page-break-after: avoid;
+  font-size: 18pt;
+  font-family: "Liberation Serif", serif;
+}
+p.MsoTitle,
+li.MsoTitle,
+div.MsoTitle {
+  margin-top: 12pt;
+  margin-right: 0in;
+  margin-bottom: 6pt;
+  margin-left: 0in;
+  text-align: center;
+  page-break-after: avoid;
+  font-size: 28pt;
+  font-family: "Liberation Sans", sans-serif;
+  font-weight: bold;
+}
+p.MsoSubtitle,
+li.MsoSubtitle,
+div.MsoSubtitle {
+  margin-top: 3pt;
+  margin-right: 0in;
+  margin-bottom: 6pt;
+  margin-left: 0in;
+  text-align: center;
+  page-break-after: avoid;
+  font-size: 18pt;
+  font-family: "Liberation Sans", sans-serif;
+}
+@page WordSection1 {
+  size: 595.3pt 841.9pt;
+  margin: 56.7pt 56.7pt 56.7pt 56.7pt;
+}
+/* List Definitions */
+ol {
+  margin-bottom: 0in;
+}
+ul {
+  margin-bottom: 0in;
+}
